@@ -191,7 +191,7 @@ Mon Jul 20 03:01:51 UTC 2026
 **Screenshot or description of what you observed:**
 
 ```
-(describe or reference your screenshot here)
+After submitting the sample orientation to GitHub I was able to see it located on my files with all of my inputs recorded.
 ```
 
 ---
@@ -201,13 +201,13 @@ Mon Jul 20 03:01:51 UTC 2026
 **One part of the portal that felt clear:**
 
 ```
-(your response here)
+Being my first time using GitHub it was very unfamiliar to navigate but I was able to locate everything needed to complete the lab successfully.
 ```
 
 **One part of the portal that could be easier for students:**
 
 ```
-(your response here)
+Navigating to the CodeSpace to run the sample commands.
 ```
 
 ---
@@ -216,7 +216,7 @@ Mon Jul 20 03:01:51 UTC 2026
 
 - [x] All five steps reviewed
 
-- [ ] Sample command outputs pasted
+- [x] Sample command outputs pasted
 
 - [x] Dashboard observations recorded
 
